@@ -8,7 +8,7 @@
 - 
 
 ## Informações do Grupo
-**Grupo**: Grupo 12 - Análisador Semantico e Geração de Código
+**Grupo**: Grupo 12 - Calculadora RPN
 **Integrantes** (ordem alfabética):
 1. André Ruan César Dal Negro.
 2. Felipe Abdullah.
